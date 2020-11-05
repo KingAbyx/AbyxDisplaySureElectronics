@@ -20,4 +20,4 @@ Library for using an Arduino Uno or similar to send data to a Sure Electronics L
  * initComands
   * initComands sends all the initializing
    * This will turn the display on, turn it to Master Mode, turn the LEDs on, sets it to full brightness and turns blink off
-Feel free to use, alter or copy my library for your own purposes
+# Feel free to use, alter or copy my library for your own purposes
